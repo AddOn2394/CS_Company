@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <basededatos>
+    <descripcion>PRODUCCION</descripcion>
+    <basededatos>dye_test</basededatos>
+  </basededatos>
+</DocumentElement>

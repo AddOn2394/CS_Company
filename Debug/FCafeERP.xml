@@ -1,0 +1,1551 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FCafeERP
+</name>
+</assembly>
+<members>
+<member name="T:FCafeERP.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Add_File_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Add_Row_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.addressbookflat32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Approval_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.bancos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Bill_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Binoculars_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.calculadora7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Cancel_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Cancel_File_32__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Captura_de_pantalla_2014_09_21_a_las_08_45_23_1024x728">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Checked_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Checked_User_96">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.checkflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.closeflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.closeflat1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.coffeeflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.companyflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.compras">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.configflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.contabilidad">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Copy_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Copy_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.copyflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.copyflat1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Create_New_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Create_New_321">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Create_New_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Delete_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Delete_File_321">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.deleteflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Edit_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Edit_321">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.editflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Employee_Card_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.erpflora">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Exit_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Exit_Sign_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Exit_Sign_321">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.exitflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.File_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.fondo_color_rojo_y_azul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.FONDO_DYE">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.FONDO_DYE1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.frontal19">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.gears">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Gender_Neutral_User_96">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.groupflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.herramientas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Key_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.llaveflat32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Logo_Cs_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Logo_DYE">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.logo_nuevo_segunda_con_company">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.logo_nuevo_segunda_opcion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.logo_rojo_y_azul_solo_letras">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Icon similar a (Icono).
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.monedaflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.newflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.News_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.openflat32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.passwordflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.passworduserflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.pic_cont_finanzas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Print_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.profileflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.pruebas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Salida">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Save_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Services_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Services_500">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.truck19">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.TXT_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Unlock_2_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.userpasswordflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.ventas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.View_File_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.View_File_32__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.View_File_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.warehouseflat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Worker_100">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Worker_100__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Worker_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FCafeERP.My.Resources.Resources.Worker_501">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_excepcionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_empresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.perfil_seguridad_encDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.perfil_seguridad_detDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tipocambioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.monedaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.control_status_detDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.control_variableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_catalogoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxp_tipo_combustibleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_autorizacionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.queryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.debito_comprasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_permiso_objetoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_contable_detDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_periodo_contable_fiscalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_contable_encDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_periodo_contableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_resumen_ventasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_ventas_asientoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxp_tipo_facturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.proveedor_giradoaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_detalle_facturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_detalle_productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_factura_ventasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.bit_tablasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.bit_entradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_libro_ventasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.empresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.regimen_fiscalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.menumasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_balance_generalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_estado_resultadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_integracion_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_excepcionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_empresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.perfil_seguridad_encRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.perfil_seguridad_detRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tipocambioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.monedaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.control_status_detRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.control_variableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_catalogoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxp_tipo_combustibleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_autorizacionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.queryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.debito_comprasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_permiso_objetoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_contable_detRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_periodo_contable_fiscalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_contable_encRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_periodo_contableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_resumen_ventasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_ventas_asientoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxp_tipo_facturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.proveedor_giradoaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_detalle_facturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_detalle_productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_factura_ventasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.bit_tablasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.bit_entradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_libro_ventasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.empresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.regimen_fiscalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.menumasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_balance_generalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_estado_resultadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_integracion_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_excepcionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_empresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.perfil_seguridad_encRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.perfil_seguridad_detRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tipocambioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.monedaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.control_status_detRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.control_variableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_catalogoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxp_tipo_combustibleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_autorizacionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.queryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.debito_comprasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.usuario_permiso_objetoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_contable_detRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_periodo_contable_fiscalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_partida_contable_encRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cn_periodo_contableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_resumen_ventasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_ventas_asientoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxp_tipo_facturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.proveedor_giradoaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_detalle_facturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_detalle_productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_factura_ventasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.cxc_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.bit_tablasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.bit_entradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_libro_ventasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.empresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.regimen_fiscalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.menumasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_balance_generalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_estado_resultadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.Datos.tb_integracion_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_partida_cierreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_documentos_ventasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_formas_pagoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_ordenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_catalogo_productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_detalle_productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.mesesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_ventas_por_productos_detalladoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_consulta_cuentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_reporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_asientoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_debito_comprasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_libro_comprasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_catalogo_detalleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_compras_bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_facturas_bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_documentosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_cuenta_bancariaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_partida_temporalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_transaccionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_cuenta_gasto_proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_partida_comprasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_libro_ventas_resumidoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_documentos_ventasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_formas_pagoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_ordenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_catalogo_productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_detalle_productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.mesesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_ventas_por_productos_detalladoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_consulta_cuentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_partida_cierreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_reporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_asientoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_debito_comprasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_libro_comprasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_catalogo_detalleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_compras_bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_facturas_bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_documentosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_cuenta_bancariaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_partida_temporalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_transaccionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_cuenta_gasto_proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_partida_comprasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_libro_ventas_resumidoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_documentos_ventasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_formas_pagoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_ordenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_catalogo_productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_tipo_productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cxc_detalle_productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.mesesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_ventas_por_productos_detalladoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_consulta_cuentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_partida_cierreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_reporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_asientoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_debito_comprasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_libro_comprasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_catalogo_detalleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_compras_bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_facturas_bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_documentosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_cuenta_bancariaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_partida_temporalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.bn_transaccionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_cuenta_gasto_proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.cn_partida_comprasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.DatosConta.tb_libro_ventas_resumidoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_cuenta_contableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_movimiento_cuentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_integracion_creditoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.cn_catalogoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_balanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_diarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_diario_resumenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_balance_saldoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_dataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_cheque_contabilidadDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_cuenta_contableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_movimiento_cuentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_integracion_creditoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.cn_catalogoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_balanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_diarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_diario_resumenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_balance_saldoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_dataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_cheque_contabilidadRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_cuenta_contableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_movimiento_cuentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_integracion_creditoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.cn_catalogoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_balanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_diarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_diario_resumenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_libro_balance_saldoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_dataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FCafeERP.ReportDataSet.tb_cheque_contabilidadRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

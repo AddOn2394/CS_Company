@@ -1,0 +1,45 @@
+h1{
+    height: 100%;
+    width: 100%;
+}
+img{
+    height: 100%;
+    width:100%;
+    max-width: px;
+    max-height: 100px;}
+.btn{
+    width: 100%;
+}
+.col-lg{
+    padding: 0;
+}
+h1{
+    font-size: 2vw;
+}
+.container-fluid{
+    height: 100%;
+    position: relative;
+}
+.contenido{
+    color:darkblue;
+    font-size: 3vw;
+    height: 100%;
+    background-image: url(../images/office.jpg);
+    background-size: auto;
+}
+html, body {height:100%;}
+
+iframe{
+    height: 100%
+}
+.servicios{
+    font-size: 2vw;
+}
+p{
+    padding: 1vw;
+    font-size: 2.5vw;
+}
+form{
+    border:1px solid black;
+    margin-top: 10vw ;
+}

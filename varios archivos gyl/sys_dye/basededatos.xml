@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <basededatos>
+    <descripcion>PRODUCCION</descripcion>
+    <basededatos>test_erp</basededatos>
+  </basededatos>
+  <basededatos>
+    <descripcion>CENTRO DE PRUEBAS</descripcion>
+    <basededatos>test_backup</basededatos>
+  </basededatos>
+</DocumentElement>
